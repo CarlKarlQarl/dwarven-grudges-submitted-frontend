@@ -1,0 +1,23 @@
+#grudge-form{
+    display: grid;
+}
+
+#grudge-form > label, input, textarea{
+    padding: .25rem;
+    width: 50%;
+}
+
+#submit-button{
+    margin: .5rem;
+}
+
+li {
+    border: solid;
+    list-style: none;
+    margin: .5rem;
+    margin-left: -2rem;
+}
+
+h3 {
+    padding: .5rem  ;
+}
